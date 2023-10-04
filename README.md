@@ -1,4 +1,4 @@
-# pritam_biswas007
+
 ![logo](https://github.com/pritambiswas1729/pritam_biswas007/blob/main/1688569417434.jpeg)
 <h1 align="center">Hello, I'm Pritam Biswas, a motivated and dedicated professional pursuing an M.Tech degree in Computer Engineering at ABV-IIITM, Gwalior. With a strong academic background and a passion for technology, I am actively seeking opportunities to contribute and grow in the field.</h1>
 <h3 align="center">A passionate developer from India</h3>
